@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NLP_Project/static/css/main.e32b92f4.css",
+    "main.js": "/NLP_Project/static/js/main.bf7fcc15.js",
+    "static/js/787.d3befce1.chunk.js": "/NLP_Project/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/NLP_Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NLP_Project/index.html",
+    "main.e32b92f4.css.map": "/NLP_Project/static/css/main.e32b92f4.css.map",
+    "main.bf7fcc15.js.map": "/NLP_Project/static/js/main.bf7fcc15.js.map",
+    "787.d3befce1.chunk.js.map": "/NLP_Project/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e32b92f4.css",
+    "static/js/main.bf7fcc15.js"
+  ]
+}
